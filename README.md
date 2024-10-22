@@ -1,3 +1,3 @@
-# MERN_Project
+# BlogApp_Project
 
-MERN_Stack Project under Rahul Prajapati Sir.
+BlogApp Project under Rahul Prajapati Sir.
